@@ -1,0 +1,11 @@
+language: csharp
+solution: ./Roomies.API/Roomies.API.sln
+dotnet: 5.0
+install:
+  - nuget restore ./Roomies.API/Roomies.API.sln
+  - nuget install NUnit.Console -Version 3.12.0 -OutputDirectory testrunner
+script:
+  - dotnet test ./Roomies.API.Test/Roomies.API.Test.csproj
+notifications:
+  email:
+    - lhm2001@hotmail.com
