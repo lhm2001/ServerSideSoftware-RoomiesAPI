@@ -1,0 +1,27 @@
+﻿2021-05-29T20:34:19.3614601-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-05-29T20:34:19.3617188-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.8.12 in Framework net50 in x64 mode execution started
+2021-05-29T20:34:19.3617247-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\SpecFlowProject2\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-05-29T20:34:19.3649022-05:00;VSTestExecutionThread;Info;Current UserName: 'lhm20', MachineName: 'LAPTOP-AQOU3JG4'
+2021-05-29T20:34:19.4095199-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\SpecFlowProject2\bin\Debug\net5.0\SpecFlowProject2.dll
+2021-05-29T20:34:19.4099360-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\TestResults" (default)
+2021-05-29T20:34:19.4144012-05:00;VSTestExecutionThread;Info;Profile: 
+2021-05-29T20:34:19.5141846-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\TestResults\Unnamed project__2021-05-29T203419.log
+2021-05-29T20:34:19.5230685-05:00;Thread#12;Info;Checking activation
+2021-05-29T20:34:20.8211888-05:00;Thread#12;Error;****************************************************************************************************************
+2021-05-29T20:34:20.8215727-05:00;Thread#12;Error;*                                           SpecFlow+ Runner                                                   *
+2021-05-29T20:34:20.8216609-05:00;Thread#12;Error;****************************************************************************************************************
+2021-05-29T20:34:20.8220096-05:00;Thread#12;Error;Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+2021-05-29T20:34:20.8221611-05:00;Thread#12;Error;https://account.specflow.org/clientactivation/welcome/Runner/DF2A545E6BFE430F8A23968E9481B2437C950C7E352D59C6C753A86D476FD2B721C23CD8/NotActivatedYet
+2021-05-29T20:34:20.8222549-05:00;Thread#12;Error;to execute your Scenarios again.
+2021-05-29T20:34:20.8225600-05:00;Thread#12;Error;If you are reading this message on a build agent, we couldn't recognize the agent.
+2021-05-29T20:34:20.8226752-05:00;Thread#12;Error;Please get in touch with us at support@specflow.org.
+2021-05-29T20:34:20.8229107-05:00;Thread#12;Error;****************************************************************************************************************
+2021-05-29T20:34:20.8294957-05:00;Thread#12;Error;No tests executed (activation needed)
+2021-05-29T20:34:20.8501106-05:00:Total: 0
+2021-05-29T20:34:20.8536519-05:00:Succeeded: 0
+2021-05-29T20:34:20.8539677-05:00:Ignored: 0
+2021-05-29T20:34:20.8542361-05:00:Pending: 0
+2021-05-29T20:34:20.8550800-05:00:Skipped: 0
+2021-05-29T20:34:20.8553718-05:00:Failed: 0
+2021-05-29T20:34:20.8631783-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

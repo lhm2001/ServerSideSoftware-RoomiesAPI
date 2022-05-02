@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RoomiesAPI20220418164342" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\georg\\OneDrive\\Desktop\\Ciclo\ 7\\Diseño\ de\ Experimentos\ de\ ISW\\Capstone\ Project\\TB2\\Artefactos\\Roomies\.API\\Roomies\.API\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,1058 @@
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\yomig\Desktop\ROOMIES_API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Roomies.APIULTIMO\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TP1\Archivos Complementarios\AplicacionesWeb_API22\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB3\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\lhm20\Desktop\Universidad\APLICACIONES WEB\TB4\Archivos Complementarios\AplicacionesWeb_API\AplicacionesWeb_API\AplicacionesWeb_API\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\deyvi\Downloads\Roomies.API\Roomies.API\bin\Debug\net5.0\libman,.json
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\libman,.json
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\appsettings.json
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\POSTMANCITO\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+D:\POSTMANCITO\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\appsettings.json
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\libman,.json
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\APLICACIONES_WEB_API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+D:\APLICACIONES_WEB_API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\libman,.json
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\georg\OneDrive\Desktop\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.json
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\libman,.json
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\libman,.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\libman,.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Roomies.API (7)\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\appsettings.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\libman,.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.Manifest.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\staticwebassets\Roomies.API.StaticWebAssets.xml
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\scopedcss\bundle\Roomies.API.styles.css
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.RazorTargetAssemblyInfo.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.csproj.CopyComplete
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\ref\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API\obj\Debug\net5.0\Roomies.API.genruntimeconfig.cache

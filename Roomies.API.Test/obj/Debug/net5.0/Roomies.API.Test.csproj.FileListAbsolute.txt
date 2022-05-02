@@ -1,0 +1,485 @@
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\appsettings.Development.json
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\appsettings.json
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\libman,.json
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.exe
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\nunit.engine.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\nunit.engine.api.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.deps.json
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.runtimeconfig.json
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.runtimeconfig.dev.json
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ref\Roomies.API.Test.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.pdb
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\AutoMapper.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Castle.Core.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\FluentAssertions.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Google.Protobuf.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\testhost.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Moq.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\MySql.Data.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Zstandard.Net.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\nunit.framework.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.pdb
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csprojAssemblyReference.cache
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.AssemblyInfoInputs.cache
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.AssemblyInfo.cs
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csproj.CoreCompileInputs.cache
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csproj.CopyComplete
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\ref\Roomies.API.Test.dll
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.pdb
+D:\APLICACIONES_WEB_API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.genruntimeconfig.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csprojAssemblyReference.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.AssemblyInfoInputs.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.AssemblyInfo.cs
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csproj.CoreCompileInputs.cache
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\ref\Roomies.API.Test.dll
+D:\Andreluis\CICLO VI\EVOL. SOFTWARE\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\libman,.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\appsettings.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.deps.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.runtimeconfig.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.runtimeconfig.dev.json
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ref\Roomies.API.Test.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\testhost.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Moq.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csprojAssemblyReference.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.AssemblyInfoInputs.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.AssemblyInfo.cs
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csproj.CoreCompileInputs.cache
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csproj.CopyComplete
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\ref\Roomies.API.Test.dll
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.pdb
+C:\Users\lhm20\Desktop\Roomies.API (7)\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\libman,.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.deps.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\appsettings.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.exe
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.deps.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ref\Roomies.API.Test.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.Test.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\testhost.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Moq.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\bin\Debug\net5.0\Roomies.API.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.csproj.CopyComplete
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\ref\Roomies.API.Test.dll
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.pdb
+C:\Users\georg\OneDrive\Desktop\Ciclo 7\Diseño de Experimentos de ISW\Capstone Project\TB2\Artefactos\Roomies.API\Roomies.API.Test\obj\Debug\net5.0\Roomies.API.Test.genruntimeconfig.cache
