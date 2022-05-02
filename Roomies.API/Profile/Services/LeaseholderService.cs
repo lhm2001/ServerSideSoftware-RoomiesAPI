@@ -84,31 +84,33 @@ namespace Roomies.API.Services
         public async Task<LeaseholderResponse> SaveAsync(Leaseholder leaseholder,int planId, int userId)
         {
             var existingPlan = await _planRepository.FindById(planId);
+            var ExistingUsername = await _userRepository.FindById(userId);
 
             if (existingPlan == null)
                 return new LeaseholderResponse("Plan inexistente");
+            if (ExistingUsername == null)
+                return new LeaseholderResponse("Username no encontrado o invalido");
 
-            var existingUser = await _userRepository.FindById(userId);
-
-
-            if (existingUser == null)
-                return new LeaseholderResponse("User inexistente");
+            DateTime fechaActual = DateTime.Today;
+            if (fechaActual.Year - leaseholder.Birthday.Year < 18)
+            {
+                return new LeaseholderResponse("El Leaseholder debe ser mayor de 18 años");
+            }
 
             try
             {
 
+                //IEnumerable<Profile> users = await _userRepository.ListAsync();
 
-                leaseholder.Plan = existingPlan;
                 leaseholder.PlanId = planId;
-                leaseholder.User = existingUser;
-                leaseholder.UserId = userId;
 
+                leaseholder.UserId = userId;
 
                 await _leaseholderRepository.AddAsync(leaseholder);
                 await _unitOfWork.CompleteAsync();
 
                 return new LeaseholderResponse(leaseholder);
-                
+
             }
 
             catch (Exception ex)
