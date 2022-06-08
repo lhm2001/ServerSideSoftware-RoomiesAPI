@@ -53,7 +53,6 @@ namespace Roomies.API
             {
                 //options.UseMySQL(Configuration.GetConnectionString("DefaultConnection"));
                 options.UseMySQL(Configuration.GetConnectionString("SmarterAspMySqlConnection"));
-
             });
 
             // AppSettings Section Reference

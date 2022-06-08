@@ -47,8 +47,8 @@ namespace Roomies.API.Persistence.Repositories
         {
             return await _context.FavouritePosts
                 .Where(pt => pt.LeaseholderId == leaseholderId )
-                .Include(pt => pt.Post)
-                .Include(pt => pt.Leaseholder)
+                .Include(pt => pt.Post).ThenInclude(l=>l.Landlord)
+                //.Include(pt => pt.Leaseholder)
                 .ToListAsync();
         }
 

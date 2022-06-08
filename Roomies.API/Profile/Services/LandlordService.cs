@@ -76,29 +76,24 @@ namespace Roomies.API.Services
         public async Task<LandlordResponse> SaveAsync(Landlord landlord,int planId, int userId)
         {
             var existingPlan = await _planRepository.FindById(planId);
-            var ExistingUsername = await _userRepository.FindById(userId);
 
 
             if (existingPlan == null)
                 return new LandlordResponse("Plan inexistente");
 
-            if (ExistingUsername == null)
-                return new LandlordResponse("Username no encontrado o invalido");
 
+            var existingUser = await _userRepository.FindById(userId);
 
-            DateTime fechaActual = DateTime.Today;
-            if (fechaActual.Year - landlord.Birthday.Year < 18)
-            {
-                return new LandlordResponse("El Landlord debe ser mayor de 18 años");
-            }
-
+            if (existingUser == null)
+                return new LandlordResponse("User inexistente");
             try
             {
-                //IEnumerable<Profile> users = await _profileRepository.ListAsync();
 
                 landlord.PlanId = planId;
-
+                landlord.Plan = existingPlan;
+                landlord.User = existingUser;
                 landlord.UserId = userId;
+
 
                 await _landlordRepository.AddAsync(landlord);
                 await _unitOfWork.CompleteAsync();
@@ -127,6 +122,7 @@ namespace Roomies.API.Services
             existingLandlord.LastName = landlord.LastName;
             existingLandlord.Province = landlord.Province;
             existingLandlord.IdCard = landlord.IdCard;
+            existingLandlord.Verified = landlord.Verified;
 
             try
             {

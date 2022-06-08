@@ -1,26 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\georg\\OneDrive\\Desktop\\Ciclo 7\\Diseño de Experimentos de ISW\\Capstone Project\\TB2\\Artefactos\\Roomies.API\\Roomies.API\\Roomies.API.csproj": {}
+    "C:\\Users\\vasqu\\Downloads\\Roomies.API\\Roomies.API\\Roomies.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\georg\\OneDrive\\Desktop\\Ciclo 7\\Diseño de Experimentos de ISW\\Capstone Project\\TB2\\Artefactos\\Roomies.API\\Roomies.API\\Roomies.API.csproj": {
+    "C:\\Users\\vasqu\\Downloads\\Roomies.API\\Roomies.API\\Roomies.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Desktop\\Ciclo 7\\Diseño de Experimentos de ISW\\Capstone Project\\TB2\\Artefactos\\Roomies.API\\Roomies.API\\Roomies.API.csproj",
+        "projectUniqueName": "C:\\Users\\vasqu\\Downloads\\Roomies.API\\Roomies.API\\Roomies.API.csproj",
         "projectName": "Roomies.API",
-        "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Ciclo 7\\Diseño de Experimentos de ISW\\Capstone Project\\TB2\\Artefactos\\Roomies.API\\Roomies.API\\Roomies.API.csproj",
-        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Ciclo 7\\Diseño de Experimentos de ISW\\Capstone Project\\TB2\\Artefactos\\Roomies.API\\Roomies.API\\obj\\",
+        "projectPath": "C:\\Users\\vasqu\\Downloads\\Roomies.API\\Roomies.API\\Roomies.API.csproj",
+        "packagesPath": "C:\\Users\\vasqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vasqu\\Downloads\\Roomies.API\\Roomies.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vasqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -128,7 +125,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.213\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

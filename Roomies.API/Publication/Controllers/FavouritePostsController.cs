@@ -34,30 +34,5 @@ namespace Roomies.API.Controllers
 
             return resources;
         }
-
-        [HttpPost("{postId}")]
-        public async Task<IActionResult> AssignFavouritePost(int leaseholderId, int postId)
-        {
-            var result = await _favouritePostService.AssignFavouritePostAsync(postId, leaseholderId);
-
-            if (!result.Success)
-                return BadRequest(result.Message);
-
-            //var postResource = _mapper.Map<Post,PostResource>(result.Resource.);
-
-            return Ok("Se ha agregado a favorito el Post");
-        }
-        [HttpDelete("{postId}")]
-        public async Task<IActionResult> UnAssignFavouritePost(int leaseholderId, int postId)
-        {
-            var result = await _favouritePostService.UnassignFavouritePostAsync(postId, leaseholderId);
-
-            if (!result.Success)
-                return BadRequest(result.Message);
-
-            //var postResource = _mapper.Map<Post,PostResource>(result.Resource.);
-
-            return Ok("Se ha quitado de favorito el Post");
-        }
     }
 }

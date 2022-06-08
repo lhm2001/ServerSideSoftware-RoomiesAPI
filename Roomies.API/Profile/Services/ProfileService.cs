@@ -123,6 +123,7 @@ namespace Roomies.API.Services
             existingUser.Department = user.Department;
             existingUser.IdCard = user.IdCard;
             existingUser.Description = user.Description;
+            existingUser.Verified = user.Verified;
 
             try
             {

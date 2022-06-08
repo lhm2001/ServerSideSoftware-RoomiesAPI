@@ -123,6 +123,7 @@ namespace Roomies.API.Services
             existingPost.Department = post.Department;
             existingPost.RoomQuantity = post.RoomQuantity;
             existingPost.Description = post.Description;
+            existingPost.Photo = post.Photo;
 
             try
             {

@@ -18,8 +18,6 @@ namespace Roomies.API.Resources
         [Required]
         [MaxLength(50)]
         public string Address { set; get; }
-        [Required]
-        [MaxLength(25)]
         public string Photo { set; get; }
         public string Province { set; get; }
         [Required]
